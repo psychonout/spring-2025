@@ -1,0 +1,6 @@
+1. Well done database - the relationships between tables, such as Posts, Tags and Votes are logically done.
+2. Understanding the relationships was crucial for writing accurate and efficient queries.
+3. Not sure if needed to do a separate query for VoteTypes in Step 2 instead of hardcoding IDs 2 and 3 for "VoteTypeId"
+4. The top 5 tags could change frequently.
+5. Was unable to fully execute 4.sql due to timeouts or this guy when creating temporary tables:
+Line 0: A severe error occurred on the current command. The results, if any, should be discarded. Operation cancelled by user.

@@ -1,0 +1,7 @@
+1. How quickly are questions being answered, and what is the average time to resolution?
+2. What sort of tags / tag combinations are struggling to get answers?
+3. Which programming languages or technologies are gaining or losing popularity? (monitor tag usage over time)
+4. Do certain topics become more popular during specific times of the year? (e.g. full moon)
+5. What is the typical journey of a new user on the platform?
+6. Are there correlations between the length of a question/answer and its popularity?
+7. Are there any factors that contribute to users remaining active over a long period?
